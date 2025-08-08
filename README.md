@@ -14,4 +14,4 @@ Back to top button and page loader
 
 Contact form with toast message
 
-PREVIEW 
+PREVIEW  https://deekshithga.github.io/MOBILE-FRIENDLY-WEBSITE/
